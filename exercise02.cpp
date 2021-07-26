@@ -34,5 +34,5 @@ int main() {
 int volume(int height, int width, int length)
 {
 
-  return volume;
+  return height * width * length ;
 }
